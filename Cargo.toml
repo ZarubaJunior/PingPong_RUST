@@ -1,0 +1,9 @@
+[package]
+name = "Ping_Pong_Game"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ggez = "0.5.1"
+rand = "0.7.3"
+
